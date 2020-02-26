@@ -100,7 +100,7 @@ function handleNextSite() {
     currentIndex += 1;
 
     // Next queue after 1s
-    workerTimer = setTimeout(workerHandler, 2000);
+    workerTimer = setTimeout(workerHandler, 5000);
 }
 
 function parseNaverShop(target: Site, response: string): Product {
