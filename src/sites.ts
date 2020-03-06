@@ -16,5 +16,8 @@ export const TargetSites: Site[] = [
     { url: "https://smartstore.naver.com/etiqa/products/4691343733", type: SiteType.navershop },
     { url: "https://smartstore.naver.com/etiqa/products/4691343767", type: SiteType.navershop },
     { url: "https://smartstore.naver.com/etiqa/products/4730528613", type: SiteType.navershop },
+    { url: "https://smartstore.naver.com/mfbshop/products/4735160554", type: SiteType.navershop },
+    { url: "https://smartstore.naver.com/mfbshop/products/4072573492", type: SiteType.navershop },
+    { url: "https://smartstore.naver.com/mfbshop/products/4735164530", type: SiteType.navershop },
     
 ];
